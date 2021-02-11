@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: VFChallenge
-  m_Shader: {fileID: 4800000, guid: 1369f488c18e7d144ac3bfdf5b5ab644, type: 3}
+  m_Name: Glass
+  m_Shader: {fileID: 4800000, guid: 5c0d4776e7142eb49b5cfa689bfb83e6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 721f42ad07d9e7440846ba4e05507835, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 7671b217634c1b146b33a2fe7fbc3209, type: 3}
+        m_Texture: {fileID: 2800000, guid: 77a8a05ea7e1e4b47983f374e38bd910, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -67,6 +67,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _ScaleUV: 20
+    - _ScaleUVX: 1
+    - _ScaleUVY: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1

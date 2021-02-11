@@ -78,6 +78,7 @@
     <None Include="Assets\Section2\UseProperties.shader" />
     <None Include="Assets\Section7\ColorVF.shader" />
     <None Include="Assets\Section6\BasicTextureBlend.shader" />
+    <None Include="Assets\Section8\Extrude.shader" />
     <None Include="Assets\Section5\OurBasicLambert.shader" />
     <None Include="Assets\Section6\Wall.shader" />
     <None Include="Assets\Section7\VFChallenge2.shader" />
@@ -91,20 +92,29 @@
     <None Include="Assets\Section4\Cutoff.shader" />
     <None Include="Assets\Section5\Section5Challenge4.shader" />
     <None Include="Assets\Section2\MyFirstShader.shader" />
+    <None Include="Assets\Section8\SimpleOutline.shader" />
     <None Include="Assets\Section5\BasicLambert.shader" />
     <None Include="Assets\Section7\VFMat.shader" />
     <None Include="Assets\Section5\Section5Challenge2.shader" />
     <None Include="Assets\Section2\PackedPractice.shader" />
+    <None Include="Assets\Section8\UVScroll.shader" />
     <None Include="Assets\Section5\StandardSpecPBR.shader" />
     <None Include="Assets\Section7\VFDiffuseShadows.shader" />
     <None Include="Assets\Section5\ToonRamp.shader" />
     <None Include="Assets\Section4\DotProduct.shader" />
     <None Include="Assets\Section5\Section5Challenge1.shader" />
     <None Include="Assets\Section7\VFChallenge1.shader" />
+    <None Include="Assets\Section8\Glass.shader" />
     <None Include="Assets\Section2\PropertiesChallenge3.shader" />
     <None Include="Assets\Section5\BasicBlinnPhong.shader" />
     <None Include="Assets\Section2\PropertiesChallenge2.shader" />
+    <None Include="Assets\Section8\Waves.shader" />
+    <None Include="Assets\Section8\AdvOutline.shader" />
     <None Include="Assets\Section6\Hologram.shader" />
+    <None Include="Assets\Section8\Section8Challenge1.shader" />
+    <None Include="Assets\Section8\Plasma.shader" />
+    <None Include="Assets\Section8\Section8Challenge2.shader" />
+    <None Include="Assets\Section8\UVScrollWater.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
