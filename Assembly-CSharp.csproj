@@ -65,7 +65,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Section7\MeshData.cs" />
+    <Compile Include="Assets\Section9\Clouds.cs" />
+    <Compile Include="Assets\Section9\Drive.cs" />
     <None Include="Assets\Section6\Hole.shader" />
+    <None Include="Assets\Section9\RaymarchCloudsVolume.shader" />
     <None Include="Assets\Section4\DotProductChallenge.shader" />
     <None Include="Assets\Section3\BumpedEnvironmentChallenge.shader" />
     <None Include="Assets\Section6\MagicBox\BumpDiffuseStencil.shader" />
@@ -78,8 +81,10 @@
     <None Include="Assets\Section2\UseProperties.shader" />
     <None Include="Assets\Section7\ColorVF.shader" />
     <None Include="Assets\Section6\BasicTextureBlend.shader" />
+    <None Include="Assets\Section9\SphericalFog.shader" />
     <None Include="Assets\Section8\Extrude.shader" />
     <None Include="Assets\Section5\OurBasicLambert.shader" />
+    <None Include="Assets\Section9\PrimitiveSphere.shader" />
     <None Include="Assets\Section6\Wall.shader" />
     <None Include="Assets\Section7\VFChallenge2.shader" />
     <None Include="Assets\Section2\PropertiesChallenge4.shader" />
@@ -89,6 +94,7 @@
     <None Include="Assets\Section6\Transparent.shader" />
     <None Include="Assets\Section3\BumpDiffuse.shader" />
     <None Include="Assets\Section7\VFDiffuse.shader" />
+    <None Include="Assets\Section9\CloudsCamera.shader" />
     <None Include="Assets\Section4\Cutoff.shader" />
     <None Include="Assets\Section5\Section5Challenge4.shader" />
     <None Include="Assets\Section2\MyFirstShader.shader" />

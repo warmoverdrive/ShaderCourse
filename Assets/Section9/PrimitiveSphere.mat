@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Section8Challenge2
-  m_Shader: {fileID: 4800000, guid: 3fb2ab70a5001164da6989b8db4da291, type: 3}
+  m_Name: PrimitiveSphere
+  m_Shader: {fileID: 4800000, guid: a2a23c66edf6e5b408b42823192df335, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -67,17 +67,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _Scale1: 0.74
-    - _Scale2: 0.79
-    - _Scale3: 0.96
-    - _Scale4: 5.78
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _Speed: 36.5
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Tint: {r: 1, g: 1, b: 1, a: 1}
